@@ -35,7 +35,6 @@ jobs:
           CHECK_WORKER: "https://jks.ent.de5.net/check?sstp=vpn:vpn@"
           CHECK_CONCURRENCY: "32"
           CHECK_TIMEOUT: "90"
-jks.ent.de5.net
 
       - name: Ensure GitHub Pages is enabled (one-time auto setup)
         run: |
