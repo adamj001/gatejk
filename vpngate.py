@@ -297,6 +297,7 @@ EDGE_HOSTS = [
     h.strip()
     for h in os.environ.get(
         "EDGE_HOSTS",
+      "mail.murata.com:443,iskills.com:443,www.lbl.gov:443,www.6i5.com:443,www.giannidelprete.it:443,www.trumpstruth.org:443,www.dbs.com.sg:443,noc.one:443,resources.biginterview.com:443,www.xiaoshuofen.com:443,visa.com:443,m.iyf.tv:443,53.fs1.hubspotusercontent-na1.net:443,cf.254301.xyz:443,cmcc.cc.cd:443,sellerlogic.com:443,token.im:443,www.leics.police.uk:443,www.dg22.top:443,www.epicgames.com:443,"
         "saas.sin.fan:443,cdn.204910.best:443,www.mfyx.cn:443,p.etime.vip:443,cdn.ctn32.us.kg:443,cf.877774.xyz:443,spring.io:443,"
         "cf.nyanya.moe:443,www.sloomb.com:443,op.chinwa.eu.cc:443,www.leics.police.uk:443,securecircle.com:443,www.shopify.com:443,"
         "www.carousell.sg:443,www.dbs.com.sg:443,openai.com:443,linear.app:443,www.bilibili.com:443,uspto.gov:443,www.vmware.com:443",
